@@ -1,0 +1,15 @@
+[
+  { "id": "heineken", "name": "Heineken", "image": "/images/heineken.jpg" },
+  { "id": "budweiser", "name": "Budweiser", "image": "/images/budweiser.jpg" },
+  { "id": "corona", "name": "Corona", "image": "/images/corona.jpg" },
+  { "id": "stella", "name": "Stella Artois", "image": "/images/stella.jpg" },
+  { "id": "skol", "name": "Skol", "image": "/images/skol.jpg" },
+  { "id": "brahma", "name": "Brahma", "image": "/images/brahma.jpg" },
+  { "id": "bohemia", "name": "Bohemia", "image": "/images/bohemia.jpg" },
+  { "id": "eisenbahn", "name": "Eisenbahn", "image": "/images/eisenbahn.jpg" },
+  { "id": "itaipava", "name": "Itaipava", "image": "/images/itaipava.jpg" },
+  { "id": "schin", "name": "Schin", "image": "/images/schin.jpg" },
+  { "id": "devassa", "name": "Devassa", "image": "/images/devassa.jpg" },
+  { "id": "petra", "name": "Petra", "image": "/images/petra.jpg" },
+  { "id": "colorado", "name": "Colorado", "image": "/images/colorado.jpg" }
+]

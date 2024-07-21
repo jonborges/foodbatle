@@ -1,0 +1,15 @@
+[
+    { "id": "heineken", "name": "Heineken", "image": "./images/cervejas/heineken.jpg" },
+    { "id": "corona", "name": "Corona", "image": "/images/cervejas/corona.jpg" },
+    { "id": "stella", "name": "Stella Artois", "image": "/cervejas/images/stella.jpg" },
+    { "id": "skol", "name": "Skol", "image": "/images/cervejas/skol.jpg" },
+    { "id": "brahma", "name": "Brahma", "image": "/images/cervejas/brahma.jpg" },
+    { "id": "bohemia", "name": "Bohemia", "image": "/images/cervejas/bohemia.jpg" },
+    { "id": "eisenbahn", "name": "Eisenbahn", "image": "/images/eisenbahn.jpg" },
+    { "id": "itaipava", "name": "Itaipava", "image": "/images/cervejas/itaipava.jpg" },
+    { "id": "schin", "name": "Schin", "image": "/images/schin.jpg" },
+    { "id": "devassa", "name": "Devassa", "image": "/images/devassa.jpg" },
+    { "id": "petra", "name": "Petra", "image": "/images/petra.jpg" },
+    { "id": "colorado", "name": "Colorado", "image": "/images/colorado.jpg" },
+    { "id": "Itaipava", "name": "Itaipava", "image": "/images/itaipava.jpg"}
+  ]

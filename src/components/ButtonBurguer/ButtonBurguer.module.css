@@ -1,0 +1,23 @@
+.button {
+    position: fixed; 
+    top: 100px; 
+    left: 50%; 
+    transform: translateX(-50%); 
+    width: 140px;
+    
+}
+
+
+@media (max-width: 768px) {
+    .button {
+        top: 40px; 
+        width: 120px; 
+    }
+}
+
+@media (max-width: 480px) {
+    .button {
+        top: 30px;
+        width: 100px; 
+    }
+}
